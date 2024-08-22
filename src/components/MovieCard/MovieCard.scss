@@ -1,0 +1,15 @@
+// src/components/movie-card/movie-card.scss
+
+.movie-card {
+    margin-bottom: 20px;
+  }
+  
+  .movie-card img {
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .movie-card .card-body {
+    text-align: center;
+  }
+  
